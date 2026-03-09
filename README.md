@@ -1,1 +1,1 @@
-![](https://tokei.rs/b1/github/Sable-20/CodeWarsSolutions)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sable-20/CodeWarsSolutions?style=for-the-badge)
